@@ -1,0 +1,25 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+#npm grunt bower yeoman
+bower_components/
+node_modules/
+dist/
+
+#generated example
+#scripts/
+

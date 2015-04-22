@@ -1,0 +1,1 @@
+Implementation of Elm's FRP pattern in Rx, Bacon, Kefir.... + React.
